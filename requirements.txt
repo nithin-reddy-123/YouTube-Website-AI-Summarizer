@@ -1,0 +1,12 @@
+python-dotenv
+streamlit
+langchain
+langchain-openai
+ipykernel
+beautifulsoup4
+langchain_community
+faiss-cpu
+langchain_groq
+validators
+youtube_transcript_api
+unstructured
